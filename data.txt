@@ -1,0 +1,14 @@
+Data science is a field about processes and systems to understand insights from large quantities of data which can help organizations make strategic decisions.
+Data scientist is a person who is curious and argumentative, have an ability to read, understand and manipulate the data together with analytical and communicative skills.
+
+
+Cover page
+Table of contents
+executive summary
+introductory
+literature review
+Methodology
+Results
+Discussion
+Conclusion
+References
